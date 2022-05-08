@@ -6,4 +6,4 @@
 loadstring(game:HttpGet(""))()
 ```
 
->Read more on [Vxntl.github.io]
+>Read more on (Vxntl.github.io)
